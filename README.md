@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/liveaverage/shiftius.example.svg?branch=master)](https://travis-ci.com/liveaverage/shiftius.example)
+
 Role Name
 =========
 
